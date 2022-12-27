@@ -1,0 +1,65 @@
+_repo: Utazas-a-Holdba-kilenczvenhet-ora-es-husz-percz-alatt_69391
+_version: 0.0.1
+alternative_title: De la terre à la lune. Hungarian
+contributor:
+  illustrator:
+    agent_name: Montaut, H. de (Henri de)
+    aliases:
+    - Montaut, Henri de
+    - Montaut, Henry de
+    - De Montaut, H. (Henri)
+    - Hem, Henry de
+    - De Hem, Henry
+    - Hy
+    deathdate: 1890
+    gutenberg_agent_id: '55220'
+    url: http://www.gutenberg.org/2009/agents/55220
+    wikipedia: https://fr.wikipedia.org/wiki/Henri_de_Montaut
+  translator:
+    agent_name: Gaal, Mózes
+    alias: Gaal, Mozes
+    birthdate: 1863
+    deathdate: 1936
+    gutenberg_agent_id: '55240'
+    url: http://www.gutenberg.org/2009/agents/55240
+    wikipedia: https://hu.wikipedia.org/wiki/Ga%C3%A1l_M%C3%B3zes_(%C3%ADr%C3%B3,_1863%E2%80%931936)
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Júlio
+    - Verne, Jules Gabriël
+    - Verne, Jules Gabriel
+    - Verne, Gyula
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jules_Verne
+    - https://pt.wikipedia.org/wiki/J%C3%BAlio_Verne
+    - https://fr.wikipedia.org/wiki/Jules_Verne
+description: ''
+gutenberg_issued: '2022-11-20'
+identifiers:
+  gutenberg: '69391'
+language: hu
+pgterms:marc905: 20221119072146verne
+pgterms:marc906: '1895'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: 'Hungary: Franklin-Társulat,1895.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Space flight to the moon -- Fiction'
+- !lcsh 'Moon -- Fiction'
+- !lcsh 'Space ships -- Fiction'
+- !lcsh 'Manned space flight -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: Utazás a Holdba kilenczvenhét óra és husz percz alatt
+url: http://www.gutenberg.org/ebooks/69391
