@@ -23,6 +23,9 @@ contributor:
     gutenberg_agent_id: '55240'
     url: http://www.gutenberg.org/2009/agents/55240
     wikipedia: https://hu.wikipedia.org/wiki/Ga%C3%A1l_M%C3%B3zes_(%C3%ADr%C3%B3,_1863%E2%80%931936)
+covers:
+- cover_type: archival
+  image_path: 69391-h/images/cover.jpg
 creator:
   author:
     agent_name: Verne, Jules
@@ -40,6 +43,8 @@ creator:
     - https://pt.wikipedia.org/wiki/J%C3%BAlio_Verne
     - https://fr.wikipedia.org/wiki/Jules_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69391#Utazas-a-Holdba-kilenczvenhet-ora-es-husz-percz-alatt
 gutenberg_issued: '2022-11-20'
 identifiers:
   gutenberg: '69391'
